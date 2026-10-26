@@ -106,11 +106,11 @@ npm run preview
 ```text
 khyal-store/
 ├── .github/workflows/deploy.yml
-├── src/
-│   ├── lib/supabase.ts
-│   ├── App.tsx
-│   ├── main.tsx
-│   └── styles.css
+├── lib/supabase.ts
+├── App.tsx
+├── main.tsx
+├── styles.css
+├── env.d.ts
 ├── supabase/schema.sql
 ├── .env.example
 ├── index.html
